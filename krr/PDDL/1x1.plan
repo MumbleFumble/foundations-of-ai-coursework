@@ -1,0 +1,15 @@
+;;!domain: 1
+;;!problem: 1x1problem
+
+0.00000: (slide-south red c11 c12)
+0.00100: (slide-south pink1 c13 c14)
+0.00200: (slide-south red c12 c13)
+0.00300: (slide-east pink1 c14 c24)
+0.00400: (slide-south red c13 c14)
+0.00500: (slide-south red c14 c15)
+0.00600: (slide-east red c15 c25)
+0.00700: (slide-east red c25 c35)
+0.00800: (slide-east red c35 c45)
+
+; Makespan: 0.008
+; Metric: 0.008

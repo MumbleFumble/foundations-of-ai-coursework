@@ -1,0 +1,3 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/UlGPC6HR)
+
+I can see that Dr. Zomboss was correct that at the same depth, minimax and ab return identical results. But Crazy Dave’s revised experiment shows that really thr bonus of ab is that it expnads far fewer states, allowing it to search deeper with the same resources. When performance is compared against the number of states expanded rather than raw depth, ab outperforms plain minimax, confirming its a better algorithm but jsut not based of pure  number of victories.
